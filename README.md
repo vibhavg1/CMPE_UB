@@ -11,7 +11,7 @@ Requirements for Compilation:
 * Access to CBC Mixed Integer Linear Programming (MILP) solver from Google. See: https://projects.coin-or.org/Cbc
 * Google OR tools with C++ interface. See: https://developers.google.com/optimization
 * To compile the code, you can use the provided CMakeLists.txt file as a reference
-* The code will yield the following executable: CMPE_UB: Upper Bounding Algorithms for solving the CMPE task
+* The code will yield the following executable: CMPE_UB
 	
 Requirements for Running the Code:
 * Once compiled, you can download the Markov network files from the UAI 2014 competition. See: http://www.hlt.utdallas.edu/~vgogate/uai14-competition/
